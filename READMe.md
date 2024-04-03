@@ -10,4 +10,6 @@ Below I will place 'Eurekas' which are takeaways from the project.
 
 Eurekas
 1.The span tag in HTML is used to color a specific part of text in the markup
-2.
+2.You can use text-transform in css to change the nature of text ie; make it all uppercase
+3.Did not know you could add text animations in css. Need to specify the code of the animation using @keyframes
+4.@media can be used in css to change the style based on the media/device being used
