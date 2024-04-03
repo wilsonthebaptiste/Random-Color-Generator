@@ -9,3 +9,5 @@ The youtube video for the tutorial I used is: https://www.youtube.com/watch?v=4n
 Below I will place 'Eurekas' which are takeaways from the project.
 
 Eurekas
+1.The span tag in HTML is used to color a specific part of text in the markup
+2.
